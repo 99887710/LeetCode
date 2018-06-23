@@ -1,0 +1,9 @@
+pros and cons of recursion
+
+pros:
+1. easy to understand
+2. clean code
+
+cons:
+1. poor performance for large input
+2. require large memory space
